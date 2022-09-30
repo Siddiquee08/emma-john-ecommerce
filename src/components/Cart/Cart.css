@@ -1,3 +1,11 @@
+
+.cart {
+    margin-left: 10px;
+    background-color: rgba(255, 153, 0, 0.3);
+    position: sticky;
+    top: 0;
+    padding: 30px 20px;
+}
 .cart-text {
     margin-left: 23px;
 }

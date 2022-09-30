@@ -5,7 +5,7 @@ import '../Product/Product.css'
 
 const Product = (props) => {
     const{clickHandle} = props
-    const { img, name, price, seller, ratings } = props.product;
+    const { img, name, price, seller, ratings, shipping } = props.product;
     
     return (
         <div className='product'>
